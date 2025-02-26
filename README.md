@@ -1,3 +1,3 @@
 # Js-back-end---Node.js
 
-Atividades de js como back-end com a utilização do Node.js
+Atividades de back-end com js, utilizando o Node.js
